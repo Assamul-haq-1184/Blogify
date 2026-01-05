@@ -588,7 +588,7 @@ Bootstrap-styled alerts for success and error messages throughout the applicatio
 
 ---
 
-**Built with ❤️ by Ali Rahmani, Talha, Assamul-Haq & Abubakar for SEF Course Project**
+**Built with ❤️ by Assamul-Haq , Talha, Ali & Abubakar for SEF Course Project**
 
 ---
 
